@@ -1,0 +1,129 @@
+/*Artículo*/
+
+
+/*Encabezado*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.encabezados {
+    margin: 0;
+    margin-left: 20px;
+    color: #b1657b;
+    font-family: Tahoma;
+}
+
+html {
+    background-color: #6c5b7c;
+}
+
+#zona-encabezado p {
+    margin: 20px;
+}
+
+#zona-encabezado {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin: 20px;
+    width: 95%;
+    background-color: #f8b595;
+    font-size: 18px;
+    font-family: Verdana;
+    color: #6c5b7c;
+}
+
+
+/*Imágenes*/
+
+img {
+    width: 100%;
+    border: 1px solid #634258;
+}
+
+#zona-imagenes {
+    margin-left: 20px;
+    background-color: #f67280;
+    text-align: center;
+    width: 95%;
+}
+
+
+/*Texto*/
+
+#zona-cuerpo {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 95%;
+    font-size: 18px;
+    font-family: Verdana;
+    background-color: #c06c84;
+    color: #f7bfa5;
+}
+
+p.separado {
+    margin-top: 20px;
+}
+
+
+/*Texto final*/
+
+#zona-final {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 95%;
+    background-color: #9cc6f9;
+    font-size: 18px;
+    font-family: Tahoma;
+    color: #544e4e;
+}
+
+
+/*Index*/
+
+
+/*Imágen*/
+
+.imagen {
+    margin-left: 750px;
+    margin-top: 200px;
+    width: 40%;
+    height: 30%;
+}
+
+
+/*Texto*/
+
+.encabezado-index {
+    margin-top: -150px;
+}
+
+.texto-index {
+    margin-top: 10px;
+    font-family: Tahoma;
+    margin-left: 20px;
+    color: #f7bfa5;
+    font-size: 20px;
+}
+
+
+/*Contacto*/
+
+.imagen-contacto {
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 40%;
+    height: 30%;
+    margin-bottom: 10px;
+}
+
+.texto-contacto {
+    margin-left: 40px;
+    font-family: Tahoma;
+    color: #f7bfa5;
+    font-size: 20px;
+}
